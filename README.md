@@ -1,6 +1,6 @@
 ### Hey, I'm Emilio
 
-Full-stack developer building at the intersection of **AI**, **blockchain**, and **automation**. I ship production systems â€” from Solana trading tools to AI agent platforms to real-time data pipelines.
+Full-stack developer building at the intersection of **AI**, **blockchain**, and **automation**. I ship production systems - from Solana trading tools to AI agent platforms to real-time data pipelines.
 
 **What I work with:** TypeScript, Python, Rust, React, Node, Solana, LLMs, Telegram/Discord bots, Chrome extensions, Electron
 
