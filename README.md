@@ -1,9 +1,11 @@
-### Hey, I'm Emilio
+### Emilio | Atlas Development
 
-Full-stack developer building at the intersection of **AI**, **blockchain**, and **automation**. I ship production systems - from Solana trading tools to AI agent platforms to real-time data pipelines.
+Full-stack engineer focused on **AI systems**, **blockchain infrastructure**, and **automation tooling**. I build and ship production software - trading systems, AI agent platforms, data pipelines, and SaaS products.
 
-**What I work with:** TypeScript, Python, Rust, React, Node, Solana, LLMs, Telegram/Discord bots, Chrome extensions, Electron
+**Stack:** TypeScript, Python, Rust, React, Node, Solana, LLMs, Electron, Chrome Extensions
 
-**Currently:** Available for contract work
+Public repos here are personal/side projects. Most of my client and production work lives in private repositories.
+
+**Open to contract work** - reach out on either platform below.
 
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/atlasdevelopment) [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/workdaynomad/)
