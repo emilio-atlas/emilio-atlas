@@ -1,11 +1,13 @@
 ### Emilio | Atlas Development
 
-Full-stack engineer focused on **AI systems**, **blockchain infrastructure**, and **automation tooling**. I build and ship production software - trading systems, AI agent platforms, data pipelines, and SaaS products.
+Full-stack engineer focused on **offline LLM applications**, **Automation**, and **RAG systems with citations**.
 
-**Stack:** TypeScript, Python, Rust, React, Node, Solana, LLMs, Electron, Chrome Extensions
+I build software that runs locally - document chat apps, retrieval pipelines, desktop AI tools, installers, and private knowledge systems designed to work without relying on the cloud.
 
-Public repos here are personal/side projects. Most of my client and production work lives in private repositories.
+**Stack:** TypeScript, Python, React, Node.js, Electron, PostgreSQL, local LLMs, vector search, RAG
 
-**Open to contract work** - reach out on either platform below.
+Public repos here are personal builds, experiments, and side projects. Most client and production work is kept private.
+
+**Available for contract work** related to offline AI, local LLM products, RAG architecture, and automation.
 
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/atlasdevelopment) [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/workdaynomad/)
